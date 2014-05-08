@@ -39,7 +39,7 @@ To run the entire suite use:
 python -m unittest discover .
 ```
 
-And to run a single test, you should be able to run it directly from the test
+And to run a set of tests for a single solution, you should be able to run it directly from the test
 file:
 
 ```

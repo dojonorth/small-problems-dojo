@@ -21,6 +21,31 @@ We're open for you to use any language in solving these problems - with a view t
 ###Extra credit:
 Benchmark your solutions. How do they perform? Is there a way you could make any of your solutions faster?
 
+##Testsuites
+
+We've provided a couple of sample testsuites for your solutions, one in Python,
+    and one in Java. These aren't prescriptive - you don't have to use either of
+    the languages or the test suites given, but merely a starting point or some
+    inspiration.
+
+###Python
+
+The Python suite has been tested with Python2.7, but it is simple enough that it
+should run under most versions of Python2 with little to no modifications.
+
+To run the entire suite use:
+
+```
+python -m unittest discover .
+```
+
+And to run a single test, you should be able to run it directly from the test
+file:
+
+```
+python test_palindrome.py
+```
+
 ### Immediate todo list
 
 - [x] Draft readme

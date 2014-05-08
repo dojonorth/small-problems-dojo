@@ -27,3 +27,4 @@ Benchmark your solutions. How do they perform? Is there a way you could make any
 - [ ] Write test suites for dynamically typed language
 - [ ] Write test suites for statically typed language
 - [ ] Test the test suites
+- [ ] ??? do we provide benchmarking tools, or should that be left as a task for the participant?

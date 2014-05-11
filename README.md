@@ -1,6 +1,6 @@
 ##Introduction
 
-This dojo is going to be more fragmented than the first 'minesweeper' one. There are three small coding problems that we'd like you to solve in two different ways, with a little 'extra-credit' at the end for the really keen.
+There are three small coding problems that we'd like you to solve in two different ways, with a little 'extra-credit' at the end for the really keen.
 
 We're open for you to use any language in solving these problems - with a view to discussing pros and cons for each at the end. And the ways in which you solve them is up to you. If you're stuck for a second way, try thinking of a constraint (such as 'now solve it without any loops') and how you would go about recoding your solution while meeting that constraint.
 
@@ -14,12 +14,12 @@ We're open for you to use any language in solving these problems - with a view t
 
    Given a string, test whether it has fully balancing parentheses (of a mixed type - eg "hello, (these [are some]) {parentheses}")
    
+###Extra credit:
+
 3. **Factorial calculator**
   
-   Return the factorial of a number. For example, 4! = 4 * 3 * 2 * 1 = 24
-
-###Extra credit:
-Benchmark your solutions. How do they perform? Is there a way you could make any of your solutions faster?
+   a. Return the factorial of a number. For example, 4! = 4 * 3 * 2 * 1 = 24
+   b. Benchmark your solutions. How do they perform? Is there a way you could make any of your solutions faster?
 
 ##Testsuites
 

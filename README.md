@@ -16,10 +16,10 @@ We're open for you to use any language in solving these problems - with a view t
    
 ###Extra credit:
 
-3. **Factorial calculator**
+* **Factorial calculator**
   
-   a. Return the factorial of a number. For example, 4! = 4 * 3 * 2 * 1 = 24
-   b. Benchmark your solutions. How do they perform? Is there a way you could make any of your solutions faster?
+   * Return the factorial of a number. For example, 4! = 4 * 3 * 2 * 1 = 24
+   * Benchmark your solutions. How do they perform? Is there a way you could make any of your solutions faster?
 
 ##Testsuites
 

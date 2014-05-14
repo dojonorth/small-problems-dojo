@@ -17,8 +17,8 @@ class FactorialTestCase(unittest.TestCase):
         self.assertEquals(24, factorial_two(4))
 
     def test_factorial_ten(self):
-        self.assertEquals(3628800, factorial_one(4))
-        self.assertEquals(3628800, factorial_two(4))
+        self.assertEquals(3628800, factorial_one(10))
+        self.assertEquals(3628800, factorial_two(10))
 
 if __name__ == '__main__':
     unittest.main()

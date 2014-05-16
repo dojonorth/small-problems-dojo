@@ -6,11 +6,16 @@ object Main {
   }
 
 
+  def palindromeOne(p: String): Boolean = ???
+
+  def palindromeTwo(p: String): Boolean = ???
+
+  def parenthesesOne(p: String): Boolean = ???
+
+  def parenthesesTwo(p: String): Boolean = ???
+
   def factorialOne(n: Int): Int = ???
 
   def factorialTwo(n: Int): Int = ???
 
-  def palindromeOne(p: String): Boolean = ???
-
-  def palindromeTwo(p: String): Boolean = ???
 }

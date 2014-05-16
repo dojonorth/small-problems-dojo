@@ -24,7 +24,7 @@ We're open for you to use any language in solving these problems - with a view t
 ##Testsuites
 
 We've provided a couple of sample testsuites for your solutions, one in Python,
-    and one in Java. These aren't prescriptive - you don't have to use either of
+    one in Java and one in Scala. These aren't prescriptive - you don't have to use either of
     the languages or the test suites given, but merely a starting point or some
     inspiration.
 
@@ -46,10 +46,31 @@ file:
 python test_palindrome.py
 ```
 
+###Scala
+
+You will need SBT installed. From within the scala directory enter the sbt console:
+
+```
+sbt
+```
+
+Then, to run the entire test suite use:
+
+```
+test
+```
+
+To run just one suite use:
+
+```
+test-only *PalindromeSuite
+```
+
 ### Immediate todo list
 
 - [x] Draft readme
 - [x] Write test suites for dynamically typed language
-- [ ] Write test suites for statically typed language
+- [x] Write test suites for statically typed language
+- [x] Write test suites for Java
 - [ ] Test the test suites
 - [ ] ??? do we provide benchmarking tools, or should that be left as a task for the participant?

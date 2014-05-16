@@ -71,6 +71,6 @@ test-only *PalindromeSuite
 - [x] Draft readme
 - [x] Write test suites for dynamically typed language
 - [x] Write test suites for statically typed language
-- [x] Write test suites for Java
+- [ ] Write test suites for Java
 - [ ] Test the test suites
 - [ ] ??? do we provide benchmarking tools, or should that be left as a task for the participant?

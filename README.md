@@ -66,11 +66,4 @@ To run just one suite use:
 test-only *PalindromeSuite
 ```
 
-### Immediate todo list
-
-- [x] Draft readme
-- [x] Write test suites for dynamically typed language
-- [x] Write test suites for statically typed language
-- [ ] Write test suites for Java
-- [ ] Test the test suites
-- [ ] ??? do we provide benchmarking tools, or should that be left as a task for the participant?
+###

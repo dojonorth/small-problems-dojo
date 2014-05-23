@@ -58,8 +58,8 @@ class ParenthesesSuite extends FunSuite {
   }
 
   test("parentheses: broken nested groups") {
-    assert(parenthesesOne("()([}))"))
-    assert(parenthesesTwo("()([}))"))
+    assert(!parenthesesOne("()([}))"))
+    assert(!parenthesesTwo("()([}))"))
   }
 
 }
